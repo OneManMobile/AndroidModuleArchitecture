@@ -1,0 +1,2 @@
+include ':our_nuu_app', ':their_nuu_app', ':nuu_music_sdk', ':todo_data', ':todo_domain', ':todo_ui'
+rootProject.name='NuuMusic'
